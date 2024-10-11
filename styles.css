@@ -52,6 +52,8 @@
 }
 body{
     background-image: url(hgghgh-min1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 header{
 display: flex;
